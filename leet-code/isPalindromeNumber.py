@@ -1,7 +1,3 @@
-"""
-Determine whether an integer is a palindrome. Do this without extra space.
-"""
-
 class Solution:
     def isPalindrome(self, x):
         if x > -1 and x < 10:
@@ -14,6 +10,7 @@ class Solution:
             pow += 1
             num /= 10
         right = x
+        #print pow,x 
         while right > 9:
             if (right % 10) != (right / (10 ** pow)):
                 return False
