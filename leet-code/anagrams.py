@@ -1,3 +1,7 @@
+"""
+https://leetcode.com/problems/anagrams/
+Given an array of strings, return all groups of strings that are anagrams.
+"""
 from collections import defaultdict
 class Solution:
     # @param {string[]} strs
