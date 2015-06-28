@@ -1,12 +1,15 @@
 import sys
 
 
+class SimpleDatabase:
+	def __init__(self):
+		self.db = {}
 
-
-
-
-
-
+	def processCommand(self, command):
+		cmd = command.split(" ")
+		cmdType = cmd[0]
+		switch(cmdType):
+			
 
 
 
