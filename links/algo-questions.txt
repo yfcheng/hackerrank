@@ -1,143 +1,73 @@
 ﻿http://www.careercup.com/question?id=15871751
-
 http://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
-
 http://www.careercup.com/question?id=6284997057052672
-
 http://www.geeksforgeeks.org/longest-common-substring/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-14-variations-of-lis/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-17-palindrome-partitioning/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-8-matrix-chain-multiplication/
-
 http://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/
-
 http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/
-
 http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
-
 Max subsum array
-
 Elevator design and test
-
 Max depth of a BST
-
 Given a histogram find the rectange with the maximum area
-
-print out the powset of a set. use any programming language you want.
-
+print out the powerset of a set. use any programming language you want.
 Write a function that computes the intersection of two arrays. The arrays are sorted. Then, what if one array is really larger than the other array?
-
 Programming for the Reversi game (for some rules)
-
 You're given a string, and you want to split it into as few strings as possible such that each string is a palindrome
-
 Given an array of numbers and another number, work out whether the array of numbers can be manipulated using standard mathematical techniques to equal the other number given. e.g. given 5 and 10, can you make 50? 5 * 10 = 50, so yes.
-
 How would you sort an array of one millions integers?
-
 Find the integer pairs in an integer array, so that they sum up to a specific number n.
-
 Partition an array in such way zeros to be moved on the left side of the array, other numbers on the right side of the array. Extra storage not allowed, only in-place
-
 Given a number N and a very large file containing natural numbers, find the N minimum numbers in this file. 
-
 Implement a class representing a shared resource which can be read by up to N readers or written by only one writer at the same time.
-
 "You have a string lets say "ABC" now write a program that prints out all the permutations of this string (for example: ACB, BAC, BCA...)" 
-
-The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
-
 Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock. 
-
 Convert the number 123 to word format i.e one hundred twenty three.
-
 Write an algorithm that match a string inside another string. 
-
 Maximum area of a rectangle in a histogram
-
 intersection of two rectangles.
-
 design a datastructure with faster insert/delete/lookup and generate random
-
 array find the product of integers which are not in the current position	
-
 print the rightmost sibling given a node and binary tree
-
 design game of mastermind
-
 How do you quickly compute a knight's tour on a chessboard?   
-
 Given a linked list, swap every pair of elements (so elements 1 and 2 swap, 3 and 4 swap, etc.)
-
 Implementing a dictionary of quick searching words
-
 check if a binary tree is a binary search tree
-
 M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function search(int s) that return the exact location of the number or Null using lgn
-
 M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function to convert the 2D sorted array to a single dimension sorted array
-
 Given a string, find out the longest palindrome substring. 
-
 Write a method to reverse an arbitrary integer. Then find all the cases to test it. 
-
 Count the number of continuous letters in a string eg aaaabbccaaddd is a4b2c2a2d3
-
 A function takes in 3 ints as an input which are the lengths of possible triangle. Write the function to determine if the three sides can make a triangle, if yes then determine if equilateral, isosceles or scalene.
-
 Detect and Remove loop in linked list
-
 Given a sum and n coins, divide the sum with the help of coins to get min num of coins
-
 Find height of a BT tree
-
 Given 2 strings delete all occurances of characters in the second string from the first string
-
 Max contiguous subarry sum - return the start and end indices
-
 mirror of a tree with and without modifying the original tree
-
 Find all the words that you can identify associated to a telephone number.
-
 Mathematically prove "Birthday paradox".
- 
 Write a program to add a node to the sorted list.
-
 You may do whatever you want to the tree however, you must ensure that all the nodes in the tree and their left/right pointers are set to null.
-
 Write code to implement a method that returns the top 10 most frequent words in a given string.
-1. Implement maze functionality (Mouse should move and eat the cheese) with the following functions Step: Moves the mouse 1 step ahead Rotate: It will rotate the mouse 90 degrees. IsDotWall: Will return true or false based on if the wall is there. Is.Cheese: This needs to be called when you find out that cheese is there. It will basically exit the program
-
+Implement maze functionality (Mouse should move and eat the cheese) with the following functions Step: Moves the mouse 1 step ahead Rotate: It will rotate the mouse 90 degrees. IsDotWall: Will return true or false based on if the wall is there. Is.Cheese: This needs to be called when you find out that cheese is there. It will basically exit the program
 Given a linked list containing 0s and 1s rearrange it so that all 0s come before 1s..... O(n)
-
 Given a binary tree find the max diameter and the two end nodes of it.
-
 Delete the kth node from end of a linked list (single pass)
-
 How do you check if two linked lists meet or not.
-
 josephius problem
-
 Write a function to determine if a number is prime.
-
 Write a function to round a float to the nearest integer (i.e. 3.14 = 3, 3.56 = 4).
-
 Write a function to print all paths of a binary tree to a certain depth/length.
-
 Example,
 Input:
-
 The following binary tree, searching to a depth of 3
     5
    / \
@@ -152,140 +82,40 @@ Output:
 5-7-8
 
 Given two nodes in a directed graph represented by singly linked nodes, provide an algorithm for finding the nearest common ancestor. In fact, provide as many different algorithms as you can, giving different trade-offs between time and space requirements (in big-O notation).
-
 A sorted array has been rotated. You need to find out the point of inflexion, i.e the position at which the smallest element of the array is present.(I did this in log n time) For example if the array is [6,7,8,9,1,2,3,4,5], the output should be 4
-
 You have a BST and int value(take it to be variable val). You need to print our all possible paths in the BST which sum to val, they may or may not start at the root.
-
 You are given a dictionary and two strings a and b. You need to convert the string a to b such that only one alphabet is changed at a time and after each change the transformed string is in the dictionary. You need to do this in the minimum number of transformations. For example the transformation from cat-->boy can be done as follows cat-->bat-->bot-->boy (if dictionary has bat and bot)
-
 You are given an array of numbers. You need to print the length of the maximum continuous sequence that you encounter. For example if input is [3,8,10,1,9,6,5,7,2 ], the continuous sequences are{1,2,3} and {5,6,7,8,9,10} the latter is the longest one so the answer becomes 6. O(n) solution was asked for, assuming you have a hash map which supports O(1) insertion and fetching operations
-
 write out a sorting algo for the binary tree
-
 solve a sudoku game
-
 design a phone book for mobile applications
-
 Give a number k, output how many prime numbers between 2 and k (inclusive)
-
 Give two strings a and b, tell whether b is a sub sequence of a (not substring), using recursion first, then using loops, then tell which one is better.
-
 describe what a cache is and when it should be used, describe how to implement a simple cache draw it up on the whiteboard, pseudo code it what are the policies for cache updates/invalidation? why? what happens when what you want to cache gets too big for a single box? draw the solution. how would you implement a multi-server caching solution?
-
-mapreduce
-
-reservoir sampling
-
 Print out all the permutations of a string; some letters may be repeated.
-
 Print out the number of ways n queens can be placed on a nxn chessboard so that they don't attack each other.
-
 Implement a preorder traversal of a binary tree; now do it iteratively.
-
 Implement insert in a trie.
-
 Implement deletion or getNext in a binary search tree.
-
 Count the number of 1 bits in an int.
-
 Reverse the bits of an int.
-
 Implement the find method.
-
-Quickselect (Median of medians) algorithm
-
-B+ tree, 
-
 Sort the array so that the odd number in front of the even number and their relative order doesn't change in O(n)
-
 Given a Binary Tree, and a value, find all possible number of ways that sum up to the given value.
-
 Program to find intersecting circles and maximum rectangles.
-
 Find if 2 lists of rectangle are exactly equal. How would you sort the lists?
+Implement a LRU cache. 
+Implement packman game and how do you design REST state. Design a TCP server and some design level questions.
+Design a vending machine which servers coffee with cream, without cream, with sugar, without sugar. How do you extend it add mocha service etc. And he asked some design patterns.
 
-Questions about Javascript scoping rules.
-
-A rectangle class to compute perimeter area etc.
-
-Before
-2 39 65 101 125
-12 42 74 110 142
-26 59 88 122 154
-40 72 95 133 161
-46 81 107 145 173
-After
-2 12 26 39 40 42 46 59 65 72 74 81 88 95 101 107 110 122 125 133 142 145 154 161 173
-
-
-Before
-5 35 67 100 125
-14 49 79 106 139
-23 55 89 117 147
-40 70 96 130 160
-52 79 106 137 175
-After
-5 14 23 35 40 49 52 55 67 70 79 79 89 96 100 106 106 117 125 130 137 139 147 160 175
-
-// example inputs:
-// [1,4,7]  [1,2,3]
-// [2,5,8]  [4,5,6]
-// [3,6,9]  [7,8,9]
-
-// desired output:
-// [1,2,3,4,5,6,7,8,9]
-
-design a method which consumes an integer and output the corresponding column number in Microsoft Excel ( ex. A, B, C......Z, AA, AB....ZZ....)
-
-
-I interviewed with Yahoo Mail back end server team. During the initial phone screen I was asked to implement a LRU cache. After that I was invited for onsite. Onsite consisted of 4 rounds of interviews of 45 mins each + 1 manager round (includes both lunch and interview).
-
-1. Implement packman game and how do you design REST state. Design a TCP server and some design level questions.
-2. Manager round - few algo questions like how would you find a duplicate num in 2 arrays. Diff between Hashmap and treemap etc.
-3. Design a vending machine which servers coffee with cream, without cream, with sugar, without sugar. How do you extend it add mocha service etc. And he asked some design patterns.
-4. I talked a bit about my project. The interviewer couldn't understand what a consistent algorithm is even though I clearly explained him how it works and I had a very hard time comprehending his oratory skills.
-
-Algo question:
-He gave input a huge file with lots a strings separated by spaces. for Example:
-MY NAME IS GLASSDOOR ......
-..................................................
-..................................................
-..................................................
-..................................................
-.............YAHOO SERVER MAIL
-
-Output file should be:
-
-MAIL SERVER YAHOO............
-..................................................
-..................................................
-..................................................
-..................................................
-......GLASSDOOR IS NAME MY
-
-5. Design a video recommendation service. He asked lot of follow up questions like how would you have a exception list of thing if a user skips a particular song etc.
-
-1) Implement isPalindrome iteratively as well as recursively.
-2) Implement IsAnagram
-3) Closures in javascript
-4) Security vulnerabilties handlers
-
-Design patterns in Javascript
-
-
+Design a video recommendation service. He asked lot of follow up questions like how would you have a exception list of thing if a user skips a particular song etc.
+Implement isPalindrome iteratively as well as recursively.
 Implement in C# the most optimum way of finding the closest common ancestor of a binary search tree.
 
-Programming for the Reversi game (for some rules)
-
 "You have a string lets say "ABC" now write a program that prints out all the combinations of this string (for example: ACB, BAC, BCA...)"
-
 Implement an algorithm to return a copy of a linked list in which each node has random pointers to other nodes within the list.
-
 The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
-
 Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock.
-
 Convert the number 123 to word format i.e one hundred twenty three.
 
 Write an algorithm that match a string inside another string.
