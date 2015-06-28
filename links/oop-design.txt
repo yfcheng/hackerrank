@@ -1,0 +1,68 @@
+http://www.careercup.com/question?id=2278
+
+http://www.glassdoor.com/Interview/Yahoo-Interview-Questions-E5807_P10.htm?sort.sortType=RD&sort.ascending=false
+
+http://www.careercup.com/page?pid=systems-design-engineer-interview-questions
+
+http://www.careercup.com/page?pid=system-design-interview-questions
+
+http://www.careercup.com/page?pid=object-oriented-design-interview-questions
+
+http://www.careercup.com/page?pid=data-structures-interview-questions
+
+http://openmymind.net/Writing-An-LRU-Cache/
+
+http://stackoverflow.com/questions/221525/how-would-you-implement-an-lru-cache-in-java-6
+
+backend technologies (node.js / javascript and other backend system components)
+
+http://www.2ality.com/2013/10/typeof-null.html?utm_source=javascriptweekly&utm_medium=email
+http://bolinfest.com/javascript/misunderstood.html?utm_source=javascriptweekly&utm_medium=email
+https://github.com/legalbox/lb_js_scalableApp
+http://addyosmani.com/scalable-javascript-videos/
+http://www.youtube.com/watch?v=vXjVFPosQHw
+https://github.com/ajacksified/Mediator.js
+http://techbus.safaribooksonline.com/9781449334840/id2769842?percentage=32.63248847926267&reader=html
+
+
+Prototype Pattern
+Module Pattern
+Revealing Module
+Revealing Prototype
+
+Facade Pattern
+Pub/Sub
+Mediator/Event Aggregator
+
+Node.js + Cocktails: Scaling Yahoo! 
+www.youtube.com/watch?v=atlMm3BGQvs
+
+Cache Is King! 
+www.youtube.com/watch?v=HKNZ-tQQnSY
+
+Using Node.js to Build Great Streaming Services
+http://www.youtube.com/watch?v=dcsVyRVvpAw
+
+Ads After Content! Deliver Ads Asynchronously 
+www.youtube.com/watch?v=ClzeilKwX10
+
+Scaling Backbone.js at SoundCloud 
+www.youtube.com/watch?v=W8B9xT1QRb0
+
+https://speakerdeck.com/addyosmani/automating-front-end-workflow
+
+https://github.com/rwaldron/idiomatic.js
+
+http://bonsaiden.github.io/JavaScript-Garden/
+
+
+http://techbus.safaribooksonline.com/9781933988696
+
+http://techbus.safaribooksonline.com/book/programming/javascript/9781449382308
+
+http://techbus.safaribooksonline.com/9780132902281
+
+http://techbus.safaribooksonline.com/book/programming/javascript/9781449328092
+
+http://techbus.safaribooksonline.com/9780596517748
+

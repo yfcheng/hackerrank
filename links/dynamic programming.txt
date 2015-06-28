@@ -1,0 +1,26 @@
+Dyamic Programming
+http://people.csail.mit.edu/bdean/6.046/dp/
+http://en.wikipedia.org/wiki/Knapsack_problem
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Dynamic/knapsackdyn.htm
+http://www.mpi-inf.mpg.de/~rybal/armc-live-termin/node5.html
+http://www.tutor.ms.unimelb.edu.au/knapsack_new/engine_front.html
+http://www.brpreiss.com/books/opus5/html/page437.html
+http://www.ics.uci.edu/~dan/class/161/notes/10/Knapsack.html
+http://www2.toki.or.id/book/AlgDesignManual/BOOK/BOOK4/NODE145.HTM
+http://www.animal.ahrgr.de/showAnimationDetails.php3?lang=en&anim=18
+http://www.cs.berkeley.edu/~luca/cs170/notes/lecture14.pdf
+http://www.cise.ufl.edu/~sahni/papers/knap.pdf
+http://en.wikipedia.org/wiki/List_of_knapsack_problems
+http://www.student.cs.uwaterloo.ca/~cs341/Old_courses/W03/section1/Unit06.pdf
+http://www.ccs.neu.edu/home/jaa/CSG713.04F/Information/Handouts/dyn_prog.pdf
+http://www.cs.princeton.edu/courses/archive/spring07/cos423/lectures/greed-dp.pdf
+http://www.cs.princeton.edu/courses/archive/spring07/cos423/lectures/greed-dp.pdf
+http://www.ccs.neu.edu/home/jaa/CSG713.04F/Information/Handouts/dyn_prog.pdf
+http://www.csc.liv.ac.uk/~darek/COMP523/lecture6.pdf
+http://www.csc.liv.ac.uk/~darek/COMP523/lecture12-13.pdf
+http://www.cs.princeton.edu/~wayne/kleinberg-tardos/04greed.pdf
+http://www.cs.pitt.edu/~kirk/cs1510/homework/dynproghw.pdf
+http://ctp.di.fct.unl.pt/~pg/docs/canadian.htm
+http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html
+http://perl.plover.com/Stream/stream.html
+http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html

@@ -1,0 +1,51 @@
+8 queens game
+circular queue
+poker game
+reverse a linked list
+duplicate node in a linked list
+linked list node & random node
+binary tree traversals
+reverse a string
+reverse only the words in a string
+repeated substrings in a string
+Design a data structure to store sparse 2D matrix which contains only 0 or 1. then write function to add 2 such matrix.
+level order traversal of a binary search tree
+Find median from continuously changing stream of data.
+Find 2nd maximum in array.
+Find nth largest in Array.
+Write merge function to merge 2 arrays into single array.
+Find the length of linked list loop.
+How to get the values of two elements from array whose sum is N.
+Get nth largest/smallest from BST.
+Perform merge of multiple arrays. (k way merge)
+How will u design Google maps or yahoo maps.
+Middle of linked list
+sum in binary search tree
+find the intersection of two sorted arrays 
+Serialize binary tree 
+How will you save a hierarchical data into a file
+chess game
+Write code to show producer/consumer problem
+Given a string find all possible meaningful words that can be formed from letters of that string.
+How to deal with the scenario of connection stacking and number of open connections in a mail server?
+How to find a loop in a linked list and write the code
+How do you design session timeout mechanism for clients on the server side  
+algorithm to solve sudoku (just looking for thought process)  
+Design a chat server
+Design TIC-TAC-TOE game
+Design TETRIS game
+Make any given string a palindrome by adding the minimum number of character
+intersection of two sorted arrays
+Implement ajax in javascript
+packman game
+how would you find a duplicate num in 2 arrays.
+Design a vending machine which servers coffee with cream, without cream, with sugar, without sugar. How do you extend it add mocha service etc. And he asked some design patterns.
+Design a video recommendation service. He asked lot of follow up questions like how would you have a exception list of thing if a user skips a particular song etc.
+How to find minimum envelope circle of a given two-dimensional points set
+He asked me to implement a Page class and a Book class, and to use these to determine how many times a given word appeared in a Book.
+find right cousin of a given node.
+Given a web server log file that runs into millions of lines write a script to pull up the top 100 users by visits and the last time-stamp of their access.
+design a file system using MVC. 
+Function to write n Fibonacci series after a given number k. 
+If you a huge dataset of numbers across multiple computers. How will you find the average of all the numbers.  
+If you a huge dataset of numbers across multiple computers. How will you find the median of all the numbers.

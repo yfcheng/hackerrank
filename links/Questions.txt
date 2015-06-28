@@ -1,0 +1,109 @@
+ZenDesk Phone:
+Write a program which will take in a sentence, and produce 2 arrays which will then be stored in an archive.
+The first array will contain all the unique words in the original text. and second array will contain integer indexes.
+There will be one index in this second array for each word in the original document
+
+Input: this specification is the specification for a specification
+Output: words = ["this", "specification", "is", "the", "for", "a"]
+        sentence = [0, 1, 2, 3, 1, 4, 5, 1]    
+
+
+PlayStudios Phone:
+1. Explain SOLID principles with details
+2. Is Ninject your favourite module for achieving dependency injection
+3. Explain the MVC architecture with respect to filters and routing
+
+
+Move Inc phone:
+1. What are models in MVC framework
+2. What is difference between datamodel and business model
+3. What is advantage of using JQuery and Javascript
+4. What are jQuery selectors
+5. What is jQuery.data
+6. What is HoldReady in JQuery 
+7. How to manipulate cookies in JQuery
+8. Difference between == and === in JavaScript
+9. WHat is difference in sorting between a string array and integer array
+10. What is version of JQuery u used
+11. what are jQuery param
+12. What are the design patterns have you used and what problem does Factory pattern solve
+13. Why do u need to send http code 302 to the client or do response.redirect in your application
+
+BoostMedia Phone:
+1. Iterate from 100 till 1 and print "Boost" for 5, "Media" for 3 and "BoostMedia" for 15
+2. Given an array of sorted strings. Write the algorithm to search the array for a particular string
+
+
+Prosper Onsite:
+1. How to do federated search i.e. a system of searching different websites or systems like amazon.com, walmart.com etc and come up with a common result. The API needs to respond as and when data comes back from different search engines.
+2. Locking mechanism over a set of functions and optimization
+3. How to implement security in Web API
+4. What is Domain oriented programming/separation of concerns
+5. How to implement Singleton pattern, with thread safe and without lazy loading
+6. Given a string containing comma separated words. How to find the word with maximum occurence in the string.
+7. How to create a queue using two stacks
+8. What is Closure in Javascript
+9. How is memory management impacted by closure
+10. In C#, if we have a similar to closure i.e. inner class referring to parent class's value type variable, then the value type variable is in stack or heap memory
+
+Prosper Phone:
+1. What are some of the design patterns you have used.
+2. Explain observer pattern
+3. Write a program to calculate nth fibonacci series number using recursion and tell the runtime
+4. Write the Fibanacci program using the iterative techniques
+5. How do u measure complexity of the program apart from runtime notation (he was looking for cyclomatic complexity)
+6. What is dependency injection and how do u implement it
+
+McKesson phone:
+1. How to find if a linked list has a loop and find the first node of the loop
+2. Design the algorithm for deck of cards. Design three functions: Initialize, Shuffle and deal
+
+HearSaySocial phone:
+How do u improve the throughput of a web service
+Given a string having a pattern "11122333", or "1", return the strng containing the count of repeating characters and the digits i.e. "312233", "11" etc
+
+Netflix Phone:
+1. Explain the security of the YAP application I explained
+2. What is difference between interfaces and abstract classes
+3. What is the purpose of Equals() and GetHashCode() for every object in Java
+4. What is HashTable and how data is stored there. He wanted to know how much I know about hashtables.
+5. Given a 10GB file, how do I copy this file to 1000 servers
+6. Implement equivalent of Sample function in Ruby i.e. Given an array of 1000 numbers which might have duplicate numbers. Your function will take input of n and would return n unique numbers. If n=10 then your function would return list of 10 unique numbers from this array of 1000 numbers. If n=999 then function would return list of 999 numbers from the array.
+
+
+WageWorks Phone:
+1. Which version of TCPBinding of WCF is supported in IIS
+2. How to do exception handling for multiple exception types within a single catch block
+3. How to implement security in a web API from Javascript client
+4. How to implement security in a web API from Javascript client served from a different domain
+5. What is difference between const and readonly keywords
+6. Can this keyword be used in a static function
+7. What are nullable types and how to handle them
+8. What is difference between custom control, user control and server control
+
+Roku Phone:
+1. What is GAC
+2. What is difference between out and ref parameters
+3. How to prevent ineritance in .NET
+4. what is boxing and unboxing
+5. How to get current thread in a method
+6. What is th difference between clustered and non-clustered index
+7. WHat is duplex contract in WCF
+8. What is observer pattern
+9. What are lambda expressions
+
+XXX Onsite:
+1. Explain the different design patterns like Factory pattern with examples
+2. Exlain the MVC architecture
+3. Explain different testing techniques you have used for load testing
+4. Given an aray of strings. Arrange all the anagraams together
+5. Implement the observer design pattern
+6. Implement a stack. Modify it to have a function to return all the elements of the stack sorted.
+7. Given a 4KB file. Explain the algorithm to fill the file with only * (star) only.
+
+SolarCity Onsite:
+1. Ask me some SQL questions
+2. How do u find min of a binary tree (not Binary Search Tree)
+3. Write a program to find nth the Fibonacci number both iteratively and recursively
+4. In a two dimensional array how to find the sum of numbers from x,y till n,m element
+5. What is the quickest way to find an element in a sorted array

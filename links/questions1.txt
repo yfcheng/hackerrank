@@ -1,0 +1,109 @@
+Programming for the Reversi game (for some rules)
+You have a string lets say "ABC" now write a program that prints out all the combinations of this string (for example: ACB, BAC, BCA...)"
+Implement an algorithm to return a copy of a linked list in which each node has random pointers to other nodes within the list.   
+The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
+Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock.
+Reverse every word in a sentence, which contains only space and chars.
+Convert the number 123 to word format i.e one hundred twenty three.
+Write an algorithm that match a string inside another string.
+Maximum area of a rectangle in a histogram
+intersection of two rectangles.
+design a datastructure with faster insert/delete/lookup and generate random
+string aa*d* => aa0d0,aa0d1,aa1d0,aa1d1
+array find the product of integers which are not in the current position        
+level order traversal of binary tree
+print the rightmost sibling given a node and binary tree
+design game of mastermind
+How do you quickly compute a knight's tour on a chessboard?  
+Given a linked list, swap every pair of elements (so elements 1 and 2 swap, 3 and 4 swap, etc.)
+Implementing a dictionary of quick searching words
+check if a binary tree is a binary search tree
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function search(int s) that return the exact location of the number or Null using lgn
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function to convert the 2D sorted array to a single dimension sorted array
+Given a string, find out the longest palindrome substring.
+Write a method to reverse an arbitrary integer. Then find all the cases to test it.
+Count the number of continuous letters in a string eg aaaabbccaaddd is a4b2c2a2d3
+Write a function bool IsPalindrome(string input) which return true if the string contains a palindrome.
+A function takes in 3 ints as an input which are the lengths of possible triangle. Write the function to determine if the three sides can make a triangle, if yes then determine if equilateral, isosceles or scalene.
+Detect and Remove loop in linked list
+Given a sum and n coins, divide the sum with the help of coins to get min num of coins
+Find height of a BT tree
+Given 2 strings delete all occurances of characters in the second string from the first string
+Max contiguous subarry sum - return the start and end indices
+mirror of a tree with and without modifying the original tree
+Find all the words that you can identify associated to a telephone number.
+Mathematically prove "Birthday paradox".
+Write a program to add a node to the sorted list.
+Clone a linked list
+You may do whatever you want to the tree however, you must ensure that all the nodes in the tree and their left/right pointers are set to null.
+Write code to implement a method that returns the top 10 most frequent words in a given string.
+1. Implement maze functionality (Mouse should move and eat the cheese) with the following functions Step: Moves the mouse 1 step ahead Rotate: It will rotate the mouse 90 degrees. IsDotWall: Will return true or false based on if the wall is there. Is.Cheese: This needs to be called when you find out that cheese is there. It will basically exit the program
+Given a linked list containing 0s and 1s rearrange it so that all 0s come before 1s..... O(n)
+Given a binary tree find the max diameter and the two end nodes of it.
+Delete the kth node from end of a linked list (single pass)
+How do you check if two linked lists meet or not.
+josephius problem
+Write a function to reverse a Linked List
+Write a function to determine if a number is prime.
+Write a function to round a float to the nearest integer (i.e. 3.14 = 3, 3.56 = 4).
+
+Write a function to print all paths of a binary tree to a certain depth/length.
+Example,
+	Input:
+
+ 	The following binary tree, searching to a depth of 3
+
+    5
+
+   / \
+
+  3   7
+
+/ \ / \
+
+1  2 5  8
+
+ 
+
+Output:
+
+5-3-1
+
+5-3-2
+
+5-7-5
+
+5-7-8
+
+ 
+
+Given two nodes in a directed graph represented by singly linked nodes, provide an algorithm for finding the nearest common ancestor. In fact, provide as many different algorithms as you can, giving different trade-offs between time and space requirements (in big-O notation).
+A sorted array has been rotated. You need to find out the point of inflexion, i.e the position at which the smallest element of the array is present.(I did this in log n time) For example if the array is [6,7,8,9,1,2,3,4,5], the output should be 4
+You have a BST and int value(take it to be variable val). You need to print our all possible paths in the BST which sum to val, they may or may not start at the root.
+You are given a dictionary and two strings a and b. You need to convert the string a to b such that only one alphabet is changed at a time and after each change the transformed string is in the dictionary. You need to do this in the minimum number of transformations. For example the transformation from cat-->boy can be done as follows cat-->bat-->bot-->boy (if dictionary has bat and bot)
+You are given an array of numbers. You need to print the length of the maximum continuous sequence that you encounter. For example if input is [3,8,10,1,9,6,5,7,2 ], the continuous sequences are{1,2,3} and {5,6,7,8,9,10} the latter is the longest one so the answer becomes 6. O(n) solution was asked for, assuming you have a hash map which supports O(1) insertion and fetching operations
+
+Write out a sorting algo for the binary tree
+Solve a sudoku game
+design a phone book for mobile applications
+Give a number k, output how many prime numbers between 2 and k (inclusive)
+Give two strings a and b, tell whether b is a sub sequence of a (not substring), using recursion first, then using loops, then tell which one is better.
+Describe what a cache is and when it should be used, describe how to implement a simple cache draw it up on the whiteboard, pseudo code it what are the policies for cache updates/invalidation? why? what happens when what you want to cache gets too big for a single box? draw the solution. how would you implement a multi-server caching solution?
+MapReduce
+Reservoir sampling
+Print out all the permutations of a string; some letters may be repeated.
+Print out the number of ways n queens can be placed on a nxn chessboard so that they don't attack each other.
+Implement a preorder traversal of a binary tree; now do it iteratively.
+Implement insert in a trie.
+Implement deletion or getNext in a binary search tree.
+Count the number of 1 bits in an int.
+Reverse the bits of an int.
+Implement the find method.
+Quickselect (Median of medians) algorithm
+B+ tree,
+Sort the array so that the odd number in front of the even number and their relative order doesn't change in O(n)
+Given a Binary Tree, and a value, find all possible number of ways that sum up to the given value.
+Program to find intersecting circles and maximum rectangles.
+Find if 2 lists of rectangle are exactly equal. How would you sort the lists?
+Questions about Javascript scoping rules.
+A rectangle class to compute perimeter area etc.

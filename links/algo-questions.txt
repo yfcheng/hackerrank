@@ -1,0 +1,692 @@
+﻿http://www.careercup.com/question?id=15871751
+
+http://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+
+http://www.careercup.com/question?id=6284997057052672
+
+http://www.geeksforgeeks.org/longest-common-substring/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-14-variations-of-lis/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-17-palindrome-partitioning/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-8-matrix-chain-multiplication/
+
+http://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/
+
+http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/
+
+http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+Max subsum array
+
+Elevator design and test
+
+Max depth of a BST
+
+Given a histogram find the rectange with the maximum area
+
+print out the powset of a set. use any programming language you want.
+
+Write a function that computes the intersection of two arrays. The arrays are sorted. Then, what if one array is really larger than the other array?
+
+Programming for the Reversi game (for some rules)
+
+You're given a string, and you want to split it into as few strings as possible such that each string is a palindrome
+
+Given an array of numbers and another number, work out whether the array of numbers can be manipulated using standard mathematical techniques to equal the other number given. e.g. given 5 and 10, can you make 50? 5 * 10 = 50, so yes.
+
+How would you sort an array of one millions integers?
+
+Find the integer pairs in an integer array, so that they sum up to a specific number n.
+
+Partition an array in such way zeros to be moved on the left side of the array, other numbers on the right side of the array. Extra storage not allowed, only in-place
+
+Given a number N and a very large file containing natural numbers, find the N minimum numbers in this file. 
+
+Implement a class representing a shared resource which can be read by up to N readers or written by only one writer at the same time.
+
+"You have a string lets say "ABC" now write a program that prints out all the permutations of this string (for example: ACB, BAC, BCA...)" 
+
+The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
+
+Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock. 
+
+Convert the number 123 to word format i.e one hundred twenty three.
+
+Write an algorithm that match a string inside another string. 
+
+Maximum area of a rectangle in a histogram
+
+intersection of two rectangles.
+
+design a datastructure with faster insert/delete/lookup and generate random
+
+array find the product of integers which are not in the current position	
+
+print the rightmost sibling given a node and binary tree
+
+design game of mastermind
+
+How do you quickly compute a knight's tour on a chessboard?   
+
+Given a linked list, swap every pair of elements (so elements 1 and 2 swap, 3 and 4 swap, etc.)
+
+Implementing a dictionary of quick searching words
+
+check if a binary tree is a binary search tree
+
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function search(int s) that return the exact location of the number or Null using lgn
+
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function to convert the 2D sorted array to a single dimension sorted array
+
+Given a string, find out the longest palindrome substring. 
+
+Write a method to reverse an arbitrary integer. Then find all the cases to test it. 
+
+Count the number of continuous letters in a string eg aaaabbccaaddd is a4b2c2a2d3
+
+A function takes in 3 ints as an input which are the lengths of possible triangle. Write the function to determine if the three sides can make a triangle, if yes then determine if equilateral, isosceles or scalene.
+
+Detect and Remove loop in linked list
+
+Given a sum and n coins, divide the sum with the help of coins to get min num of coins
+
+Find height of a BT tree
+
+Given 2 strings delete all occurances of characters in the second string from the first string
+
+Max contiguous subarry sum - return the start and end indices
+
+mirror of a tree with and without modifying the original tree
+
+Find all the words that you can identify associated to a telephone number.
+
+Mathematically prove "Birthday paradox".
+ 
+Write a program to add a node to the sorted list.
+
+You may do whatever you want to the tree however, you must ensure that all the nodes in the tree and their left/right pointers are set to null.
+
+Write code to implement a method that returns the top 10 most frequent words in a given string.
+1. Implement maze functionality (Mouse should move and eat the cheese) with the following functions Step: Moves the mouse 1 step ahead Rotate: It will rotate the mouse 90 degrees. IsDotWall: Will return true or false based on if the wall is there. Is.Cheese: This needs to be called when you find out that cheese is there. It will basically exit the program
+
+Given a linked list containing 0s and 1s rearrange it so that all 0s come before 1s..... O(n)
+
+Given a binary tree find the max diameter and the two end nodes of it.
+
+Delete the kth node from end of a linked list (single pass)
+
+How do you check if two linked lists meet or not.
+
+josephius problem
+
+Write a function to determine if a number is prime.
+
+Write a function to round a float to the nearest integer (i.e. 3.14 = 3, 3.56 = 4).
+
+Write a function to print all paths of a binary tree to a certain depth/length.
+
+Example,
+Input:
+
+The following binary tree, searching to a depth of 3
+    5
+   / \
+  3   7
+ / \ / \
+1  2 5  8
+
+Output:
+5-3-1
+5-3-2
+5-7-5
+5-7-8
+
+Given two nodes in a directed graph represented by singly linked nodes, provide an algorithm for finding the nearest common ancestor. In fact, provide as many different algorithms as you can, giving different trade-offs between time and space requirements (in big-O notation).
+
+A sorted array has been rotated. You need to find out the point of inflexion, i.e the position at which the smallest element of the array is present.(I did this in log n time) For example if the array is [6,7,8,9,1,2,3,4,5], the output should be 4
+
+You have a BST and int value(take it to be variable val). You need to print our all possible paths in the BST which sum to val, they may or may not start at the root.
+
+You are given a dictionary and two strings a and b. You need to convert the string a to b such that only one alphabet is changed at a time and after each change the transformed string is in the dictionary. You need to do this in the minimum number of transformations. For example the transformation from cat-->boy can be done as follows cat-->bat-->bot-->boy (if dictionary has bat and bot)
+
+You are given an array of numbers. You need to print the length of the maximum continuous sequence that you encounter. For example if input is [3,8,10,1,9,6,5,7,2 ], the continuous sequences are{1,2,3} and {5,6,7,8,9,10} the latter is the longest one so the answer becomes 6. O(n) solution was asked for, assuming you have a hash map which supports O(1) insertion and fetching operations
+
+write out a sorting algo for the binary tree
+
+solve a sudoku game
+
+design a phone book for mobile applications
+
+Give a number k, output how many prime numbers between 2 and k (inclusive)
+
+Give two strings a and b, tell whether b is a sub sequence of a (not substring), using recursion first, then using loops, then tell which one is better.
+
+describe what a cache is and when it should be used, describe how to implement a simple cache draw it up on the whiteboard, pseudo code it what are the policies for cache updates/invalidation? why? what happens when what you want to cache gets too big for a single box? draw the solution. how would you implement a multi-server caching solution?
+
+mapreduce
+
+reservoir sampling
+
+Print out all the permutations of a string; some letters may be repeated.
+
+Print out the number of ways n queens can be placed on a nxn chessboard so that they don't attack each other.
+
+Implement a preorder traversal of a binary tree; now do it iteratively.
+
+Implement insert in a trie.
+
+Implement deletion or getNext in a binary search tree.
+
+Count the number of 1 bits in an int.
+
+Reverse the bits of an int.
+
+Implement the find method.
+
+Quickselect (Median of medians) algorithm
+
+B+ tree, 
+
+Sort the array so that the odd number in front of the even number and their relative order doesn't change in O(n)
+
+Given a Binary Tree, and a value, find all possible number of ways that sum up to the given value.
+
+Program to find intersecting circles and maximum rectangles.
+
+Find if 2 lists of rectangle are exactly equal. How would you sort the lists?
+
+Questions about Javascript scoping rules.
+
+A rectangle class to compute perimeter area etc.
+
+Before
+2 39 65 101 125
+12 42 74 110 142
+26 59 88 122 154
+40 72 95 133 161
+46 81 107 145 173
+After
+2 12 26 39 40 42 46 59 65 72 74 81 88 95 101 107 110 122 125 133 142 145 154 161 173
+
+
+Before
+5 35 67 100 125
+14 49 79 106 139
+23 55 89 117 147
+40 70 96 130 160
+52 79 106 137 175
+After
+5 14 23 35 40 49 52 55 67 70 79 79 89 96 100 106 106 117 125 130 137 139 147 160 175
+
+// example inputs:
+// [1,4,7]  [1,2,3]
+// [2,5,8]  [4,5,6]
+// [3,6,9]  [7,8,9]
+
+// desired output:
+// [1,2,3,4,5,6,7,8,9]
+
+design a method which consumes an integer and output the corresponding column number in Microsoft Excel ( ex. A, B, C......Z, AA, AB....ZZ....)
+
+
+I interviewed with Yahoo Mail back end server team. During the initial phone screen I was asked to implement a LRU cache. After that I was invited for onsite. Onsite consisted of 4 rounds of interviews of 45 mins each + 1 manager round (includes both lunch and interview).
+
+1. Implement packman game and how do you design REST state. Design a TCP server and some design level questions.
+2. Manager round - few algo questions like how would you find a duplicate num in 2 arrays. Diff between Hashmap and treemap etc.
+3. Design a vending machine which servers coffee with cream, without cream, with sugar, without sugar. How do you extend it add mocha service etc. And he asked some design patterns.
+4. I talked a bit about my project. The interviewer couldn't understand what a consistent algorithm is even though I clearly explained him how it works and I had a very hard time comprehending his oratory skills.
+
+Algo question:
+He gave input a huge file with lots a strings separated by spaces. for Example:
+MY NAME IS GLASSDOOR ......
+..................................................
+..................................................
+..................................................
+..................................................
+.............YAHOO SERVER MAIL
+
+Output file should be:
+
+MAIL SERVER YAHOO............
+..................................................
+..................................................
+..................................................
+..................................................
+......GLASSDOOR IS NAME MY
+
+5. Design a video recommendation service. He asked lot of follow up questions like how would you have a exception list of thing if a user skips a particular song etc.
+
+1) Implement isPalindrome iteratively as well as recursively.
+2) Implement IsAnagram
+3) Closures in javascript
+4) Security vulnerabilties handlers
+
+Design patterns in Javascript
+
+
+Implement in C# the most optimum way of finding the closest common ancestor of a binary search tree.
+
+Programming for the Reversi game (for some rules)
+
+"You have a string lets say "ABC" now write a program that prints out all the combinations of this string (for example: ACB, BAC, BCA...)"
+
+Implement an algorithm to return a copy of a linked list in which each node has random pointers to other nodes within the list.
+
+The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
+
+Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock.
+
+Convert the number 123 to word format i.e one hundred twenty three.
+
+Write an algorithm that match a string inside another string.
+
+Maximum area of a rectangle in a histogram
+
+intersection of two rectangles.
+
+design a datastructure with faster insert/delete/lookup and generate random
+
+string aa*d* => aa0d0,aa0d1,aa1d0,aa1d1 
+
+array find the product of integers which are not in the current position        
+
+level order traversal of binary tree 
+
+print the rightmost sibling given a node and binary tree
+
+design game of mastermind
+
+How do you quickly compute a knight's tour on a chessboard?  
+
+Given a linked list, swap every pair of elements (so elements 1 and 2 swap, 3 and 4 swap, etc.)
+
+Implementing a dictionary of quick searching words
+
+check if a binary tree is a binary search tree
+
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function search(int s) that return the exact location of the number or Null using lgn
+
+M is a 2D matrix of integers (nXm) they are sorted in both row and column Write a function to convert the 2D sorted array to a single dimension sorted array
+
+Given a string, find out the longest palindrome substring.
+
+Write a method to reverse an arbitrary integer. Then find all the cases to test it.
+
+Count the number of continuous letters in a string eg aaaabbccaaddd is a4b2c2a2d3
+
+Write a function bool IsPalindrome(string input) which return true if the string contains a palindrome.
+
+A function takes in 3 ints as an input which are the lengths of possible triangle. Write the function to determine if the three sides can make a triangle, if yes then determine if equilateral, isosceles or scalene.
+
+Detect and Remove loop in linked list
+
+Given a sum and n coins, divide the sum with the help of coins to get min num of coins
+
+Find height of a BT tree
+
+Given 2 strings delete all occurances of characters in the second string from the first string
+
+Max contiguous subarry sum - return the start and end indices
+
+mirror of a tree with and without modifying the original tree
+
+Find all the words that you can identify associated to a telephone number.
+
+Mathematically prove "Birthday paradox".
+
+Write a program to add a node to the sorted list.
+
+Clone a linked list
+
+You may do whatever you want to the tree however, you must ensure that all the nodes in the tree and their left/right pointers are set to null.
+
+Write code to implement a method that returns the top 10 most frequent words in a given string.
+
+1. Implement maze functionality (Mouse should move and eat the cheese) with the following functions Step: Moves the mouse 1 step ahead Rotate: It will rotate the mouse 90 degrees. IsDotWall: Will return true or false based on if the wall is there. Is.Cheese: This needs to be called when you find out that cheese is there. It will basically exit the program
+
+Given a linked list containing 0s and 1s rearrange it so that all 0s come before 1s..... O(n)
+
+Given a binary tree find the max diameter and the two end nodes of it.
+
+Delete the kth node from end of a linked list (single pass)
+
+How do you check if two linked lists meet or not.
+
+josephius problem
+
+Write a function to reverse a Linked List
+
+Write a function to determine if a number is prime.
+
+Write a function to round a float to the nearest integer (i.e. 3.14 = 3, 3.56 = 4).
+
+Write a function to print all paths of a binary tree to a certain depth/length.
+
+
+Example,
+Input:
+The following binary tree, searching to a depth of 3
+    5
+
+   / \
+
+  3   7
+
+/ \ / \
+
+1  2 5  8
+
+Output:
+5-3-1
+5-3-2
+5-7-5
+5-7-8
+
+Given two nodes in a directed graph represented by singly linked nodes, provide an algorithm for finding the nearest common ancestor. In fact, provide as many different algorithms as you can, giving different trade-offs between time and space requirements (in big-O notation).
+
+A sorted array has been rotated. You need to find out the point of inflexion, i.e the position at which the smallest element of the array is present.(I did this in log n time) For example if the array is [6,7,8,9,1,2,3,4,5], the output should be 4
+
+You have a BST and int value(take it to be variable val). You need to print our all possible paths in the BST which sum to val, they may or may not start at the root.
+
+You are given a dictionary and two strings a and b. You need to convert the string a to b such that only one alphabet is changed at a time and after each change the transformed string is in the dictionary. You need to do this in the minimum number of transformations. For example the transformation from cat-->boy can be done as follows cat-->bat-->bot-->boy (if dictionary has bat and bot)
+
+You are given an array of numbers. You need to print the length of the maximum continuous sequence that you encounter. For example if input is [3,8,10,1,9,6,5,7,2 ], the continuous sequences are{1,2,3} and {5,6,7,8,9,10} the latter is the longest one so the answer becomes 6. O(n) solution was asked for, assuming you have a hash map which supports O(1) insertion and fetching operations
+
+write out a sorting algo for the binary tree
+
+solve a sudoku game
+
+design a phone book for mobile applications
+
+Give a number k, output how many prime numbers between 2 and k (inclusive)
+
+Give two strings a and b, tell whether b is a sub sequence of a (not substring), using recursion first, then using loops, then tell which one is better.
+
+describe what a cache is and when it should be used, describe how to implement a simple cache draw it up on the whiteboard, pseudo code it what are the policies for cache updates/invalidation? why? what happens when what you want to cache gets too big for a single box? draw the solution. how would you implement a multi-server caching solution?
+
+mapreduce
+
+reservoir sampling
+
+Print out all the permutations of a string; some letters may be repeated.
+
+Print out the number of ways n queens can be placed on a nxn chessboard so that they don't attack each other.
+
+Implement a preorder traversal of a binary tree; now do it iteratively.
+
+Implement insert in a trie.
+
+Implement deletion or getNext in a binary search tree.
+
+Count the number of 1 bits in an int.
+
+Reverse the bits of an int.
+
+Implement the find method.
+
+Quickselect (Median of medians) algorithm
+
+B+ tree,
+
+Sort the array so that the odd number in front of the even number and their relative order doesn't change in O(n)
+
+Given a Binary Tree, and a value, find all possible number of ways that sum up to the given value.
+
+Program to find intersecting circles and maximum rectangles.
+
+Find if 2 lists of rectangle are exactly equal. How would you sort the lists?
+
+Questions about Javascript scoping rules.
+
+A rectangle class to compute perimeter area etc.
+
+Given two binary search trees, write function which tells if two such trees are the same – (i.e. same info in the nodes, same branching to left and right at every node).
+
+One has a stream of queries coming over a day, how do you keep a cache of 1000 most-frequently used ones? Did not have time for this one.
+
+Given a list of strings return the substring representing the longest common prefix 
+
+Design a web search engine that searches web locations for anagrams of a given string.
+
+Find the number of connected components in a Graph. 
+
+Given a list L of n numbers. Write a function to return true if the sum of any two numbers of L equals to k; false otherwise. 
+
+Write a function that computes the intersection of two arrays. The arrays are sorted. Then, what if one array is really larger than the other array?
+
+Find the common numbers in two text files. 
+
+Write a function to validate a binary search tree.  
+
+print out the powset of a set. use any programming language you want. 
+
+Given a list of generic items, describe/code the approach would you take to finding the most common item. 
+
+Given a list of integers of at least length 7, print the average of each consecutive 7 number long subsequence (sliding window).  
+
+Given a base 10 number, print the hexidecimal (base 16) representation of that number.
+
+Discuss and implementation of flattening a binary search tree into string representations. 
+
+Describe a method to sift through dozens of emails and rank them based on 'importance'. 
+
+sort integer array in linear time 
+
+Algorithm to get Index of a permutation when all permutations arranged in lexicographical order and its complexity
+
+Code game of life 
+
+Given a list of integers, find 3 numbers that add up to a given number. ie, find a,b,c,d such that a+b+c=d 
+
+Given a bunch of N random points in space, how would you draw a line such that N/2 of them were to the left of the line and N/2 to the right of it. Complexity
+
+How would you generate a stream of random numbers? Optimize for space
+
+Write a function that will return the second longest string in a list of strings. You have to do a single pass on the list.
+
+reverse a sentence such that the ordering of words is reversed but the words aren't changed 
+
+Design the friend suggestion of facebook, write a code, complexity,... 
+
+In a sorted array, find the number closest to a given number 
+
+You're given a binary tree and pointers to two nodes in the tree. Describe the fastest algorithm you can come up with to determine the closest common ancestor. (not a BST)
+
+Express the number of ways, T(N) for climbing N steps. You can climb either one or two steps at a time. What is T(N)? 
+
+How to implement a queue simply using two stacks and how to implement a highly efficient queue using two stacks. 
+
+Implement a function, F(int n) to calculate the nth Fibonacci number.
+
+http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+
+How would you find maximum element in a list of items whcih implements comparator.
+
+a very long single linked list, how to find the n-th entry from the end. 
+
+Millions of cache entries, each with a unique key, stored in several servers. how to sort all entries whose key falls within a specified range using Map Reduce? What if one server has a very small range of keys (say 1 to 100) and another server has a very large range of keys (say 100 to 1000000)? Sorry I don't remember the answer. 
+
+Describe the design and implementation of a Tic Tac Toe game. 
+
+Describe the implementation (along with data structures) involved in making a program that:
+1. inserts a number
+2. returns the median of all unique numbers  
+
+Give 2 coding solutions on returning an array by removing duplicates. One solution with O(n^2) and the other Linear. 
+
+Develop a solution to convex hull and state its complexity.
+
+Given an unlimited stream of input, output the median value at any moment.
+
+code a method given the following method signature that will print out any numbers that intersect both arrays of numbers
+//Example arrays
+// 4, 18, 25, 40, 411
+// 20, 25, 40, 320, 1009, 1100
+
+void intersect(int[] arr1, int len1, int[] arr2, int len2) { 
+}
+
+Create a binary tree based on a sorted array  
+
+you have a sequence where each number is a multiple of 2 or 5 (so: 2^i * 5^j). he gave the beginning of the sequence as 1,2,3,4,5,8,10,16... and asked me to find an algorithm to calculate the next number in the sequence. 
+
+Write a class that iterates through a list of lists with methods next and hasNext. Next returns the next item in the list, and hasNext returns True or False depending on whether or not we are at the end of the list.
+
+which 2 datastructures will you use to design a dictionary . 
+
+Write code to check whether every element of an array has been visited (you are given a starting position and each position stores a pointer to a subsequent position) 
+
+Try to figure out the top unique search queries from a database with 100 billion entries 
+
+You have a genealogy:
+1) Describe a data structure to represent it.
+2) Given any two people within the genealogy, describe an algorithm to determine if they share a common ancestor. You just need to return true/false, not all ancestors. 
+
+first: two array a[], b[], you need to compute b[i] = a[0]*...a[i-1]*a[i+1]*...a[n]
+second: design a structure have these two functions: insert, getMedian, discuss the time complexity
+third: given two string a, b tell whether a is a substring of b
+fourth: given two string with equal length, tell whether they are anagram.
+fifth: you have a list of parking lots with only one empty lot, how to change the cars to a different sequence while using only that one empty lot
+
+Difference between arithmetic and logical shift
+
+talk about 1s complement and 2s complement representation
+
+Implement a base 3 adder which takes two strings as input and returns a string
+
+Write algorithm to compute a Log to the base 2 of a number (integral results no need for floating point). Solution should not assume a particular size of integer
+
+maximum sum of any continuous subsequence in an array of signed integers
+whats the complexity.
+
+program to compute fibonacci sequence..standard recursive and more efficent iterative one.. algorithmic complexity of both. 
+
+count the number of bits set in a bitmap of arbitrary size.  
+
+I was asked to determine whether two nodes were connected in a graph.
+
+Given a picture of a skip list data structure, implement the algorithm to maintain skip lists (add, search, delete).  
+
+Propose a data structure for a distributed range query
+
+Giving n numbers, and one number s, find out whether there are two numbers form the n numbers sums up to the number s. Finding one solution is extremely easy, but what's required is to find out ALL solutions to the problem and analyse the run times. 
+
+How would you sort a huge file - one that can not fit in memory?
+
+Quad tree bitmap: describe data structure and an algorithm
+
+How to replace a string in a templatized string where each placeholder starts with a specific delimiter,
+
+you are given a map that maps the placeholders to associated values.
+
+write a sql query to find all 2nd (and then 3rd) level manager from a tabel employee with name, 
+id (pk) and managerid. 
+
+code a program to check if a binary tree is the subtree of another.
+
+Build Windows Minesweeper. Data structure, method to check state etc.  
+
+Write a function Brackets(int n) that prints all combinations of well-formed brackets. For Brackets(3) the output would be ((())) (()()) (())() ()(()) ()()()
+
+Fastest way to count number of bits in a 32-bit or 64-bit integer.  
+
+Find shortest substring in a string that contains all of a set of characters.
+
+Write a program to find depth of binary search tree without using recursion
+
+How would you sort 10 million phone numbers?
+
+How would you implement a singleton in the language of your choice?
+
+There is a museum organized as NxN room. Some rooms are locked and inaccessible. Other rooms are open and some rooms have guards. Guards can only move north, south, east and west, only through open rooms and only within the museum. For each room, find the shortest distance to a guard. What is the time complexity of your algorithm?
+
+There is an NxM grid containing a robot at (1, 1) and a destination at (N, M). Robot can move only up or right. Some locations can have obstacles. Find the number of unique paths from (1, 1) to (N, M). What is the time complexity of your algorithm?
+
+You are given two sets of integers, sizes M and N with M < N. Perform inner equal join on these two sets (i.e., find intersection of the two lists). How to perform it if both the lists are in files and the available memory is of size K < M < N. 
+
+Copy a graph.
+
+write an algorithm to divide two numbers using only loops and addition.  
+
+http://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+
+Write a function that divides two numbers without using the divide '/' operator. 
+
+Given the pre-order and in-order traversing result of a binary tree, write a function to rebuild the tree.
+
+How to reverse a tree 
+
+Find the optimal map route between two points on a grid (maze) with some areas blocked out. 
+
+Write an algorithm to sort and merge 2 LARGE data streams on a system where storage is essentially unlimited (but slow) and RAM is limited.
+ 
+Write a method that finds depth of a (non-balanced) binary tree.
+
+Given unsorted sequence of billions of numbers that cannot all fit in memory at the same time, find the median of these values.
+
+Implement a method that matches an entire string with star wildcard pattern, e.g. returns true for ("*ogle", "Google"), but false for ("fragile*", "agile") - without 
+using regular expression language support. 
+
+how trace route works
+
+how ping works 
+
+Suppose you have an arbitrarily connected graph with n nodes. Come up with an algorithm to identify each set of connected nodes (i.e. identify all the islands in the graph). What's the complexity? Can you find a solution in O(n log n)?
+
+Given a grid that contains rectangles, write a function that will return all the rectangles that overlap with each other.
+
+How will you determine two graphs are the same?
+
+Take an array of numbers and replace each item with the product of all the other items in the array
+
+Compress a given string.
+Input: aaaaabbccc
+Output: a5b2c3
+
+How to build a distributed algorithm to compute the balance of the parathenses?
+
+How would you find the power set of a set of numbers? Code it.
+
+Given a word that consists of two words such as "aman" give all the combination of valid two words. You are given a dictionary to test against.
+Example: aman--> a man, am an. watermelon--> water melon
+
+Search smallest value from a tree. What if you have enough memory, how to improve the speed?
+
+Maximum contiguous sub sequence sum problem
+
+Write a function to modify a singly linked list, appending copies of the first N-1 elements to the end in reverse order. For example, ['A', 'B', 'C', 'D'] becomes ['A', 'B', 'C', 'D', 'C', 'B', 'A'].
+
+Write a program to compute if one string is a rotation of another.  
+
+How can you optimize the code written for B+ tree
+
+Design a class to serialize / deserialze a graph.
+
+3. One has a stream of queries coming over a day, how do you keep a cache of 1000 most-frequently used ones? Did not have time for this one.
+
+How to find a median in a large file of 64-bit integers.
+I mentioned first the classical "order statistics" algorithm with splitting initial group into 5-tuples and finding median of medians, etc. My proposal on the problem was toadopt median algorithm to the case when we are dealing with large file – however no additional disk space could be used, it should be done "in place" and it is not clear for me if order statistics algorithm could be done easily with such restriction. Interviewer downplayed the order statistics deal and navigated me to the solution that I liked – keep in memory counters for binary intervals practically counting occurences of prefixes (say, 24-bit prefixes). After that we are able to tell what prefix range the median belongs to, recalculate index of the element to search instead of median and go over the particular prefix range and find it there. Sweet.
+
+After two week got rejection as not matching with current open positions.
+Interview Questions
+Given two binary search trees, write function which tells if two such trees are the same – (i.e. same info in the nodes, same branching to left and right at every node).   View Answers (6)
+Given two large files with 64-bit integers produce file with integers which are present in both files and estimate O(?) complexity of your algorithm.   View Answers (4)
+How to find a median in a large file of 64-bit integers   View Answer
+Input is a 4x4 table with letters. One starts from any of the 16 elements and can move in one step to any of the 8 neighboring cells not visited before (up, down, left, right, up-left, etc, no hyperspace jumps between rows 1 & 4, columns 1 & 4).
+Every time step is made letter in that cell is added so a word is built as we walk. These generated words are looked up in external dictionary (function to look up in the dictionary is provided, I did not understand significance of this dictionary well) and the goal of the exercise is to output all words generated by all possible table walks and which are contained in the dictionary.   View Answers (4)
+When you are doing "read()" call what it happening under the hood in user space?   View Answers (2)
+
+How would you implement a top 3 word count in a text editor application?
+
+http://www.glassdoor.com/Interview/Google-Interview-Questions-E9079_P161.htm?sort.sortType=RD&sort.ascending=false
+

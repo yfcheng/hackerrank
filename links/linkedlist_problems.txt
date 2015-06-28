@@ -1,0 +1,84 @@
+﻿1. There is an array A[N] of N numbers. You have to compose an array Output[N] such that Output[i] will be equal to multiplication of all the elements of A[N] except A[i]. For example Output[0] will be multiplication of A[1] to A[N-1] and Output[1] will be multiplication of A[0] and from A[2] to A[N-1].
+Solve it without division operator and in O(n).
+
+2. There is a linked list of numbers of length N. N is very large and you don’t know N. You have to write a function that will return k random numbers from the list. Numbers should be completely random.
+Hint:
+1. Use random function rand() (returns a number between 0 and 1) and irand()
+(return either 0 or 1)
+2. It should be done in O(n).
+
+3. Find or determine non existence of a number in a sorted list of N numbers where the numbers range over M, M >> N and N large enough to span multiple disks. Algorithm to beat O(log n) bonus points for constant time algorithm.
+
+4. You are given a game of Tic Tac Toe. You have to write a function in which you pass the whole game and name of a player. The function will return whether the player has won the game or not. First you to decide which data structure you will use for the game.You need to tell the algorithm first and then need to write the code.
+Note: Some position may be blank in the game? So your data structure should
+consider this condition also.
+
+5. You are given an array [a1 To an] and we have to construct another array [b1 To bn] where bi = a1*a2*...*an/ai. you are allowed to use only constant space and the time complexity is O(n). No divisions are allowed.
+
+6. How do you put a Binary Search Tree in an array in a efficient manner.
+
+Hint :: If the node is stored at the ith position and its children are at
+2i and 2i+1(I mean level order wise)Its not the most efficient way.
+
+
+7. How do you find out the fifth maximum element in an Binary Search Tree in efficient manner.
+Note :: You should not use use any extra space. i.e sorting Binary Search Tree
+and storing the results in an array and listing out the fifth element.
+
+8. Given a Data Structure having first n integers and next n chars. A = i1 i2 i3 ... iN c1 c2 c3 ... cN.Write an in-place algorithm to rearrange the elements of the array ass A = i1 c1 i2 c2 ... in cn
+
+9. Given two sequences of items, find the items whose absolute number increases or decreases the most when comparing one sequence with the other by reading the sequence only once.
+
+10. Given That One of the strings is very very long , and the other one could be of various sizes. Windowing will result in O(N+M) solution but could it be better? May be NlogM or even better?
+
+11. How many lines can be drawn in a 2D plane such that they are equidistant from 3 non-collinear points ?
+
+12. Lets say you have to construct Google maps from scratch and guide a person standing on Gateway of India (Mumbai) to India Gate(Delhi).How do you do the same ?
+
+13. Given that you have one string of length N and M small strings of length L . How do you efficiently find the occurrence of each small string in the larger one ?
+
+14. Given a Binary Tree, Programmatically you need to Prove it is a Binary Search Tree
+Hint: Some kind of pointer handling with In Order Traversal - anybody in for
+writing some code
+
+15. You are given a small sorted list of numbers, and a very very long sorted list of numbers - so long that it had to be put on a disk in different blocks. How would you find those short list numbers in the bigger one?
+
+16. Suppose you have given N companies, and we want to eventually merge them into one big company. How many ways are theres to merge?
+
+17. Given a file of 4 billion 32-bit integers, how to find one that appears at least twice?
+
+18. Write a program for displaying the ten most frequent words in a file such that your program should be efficient in all complexity measures.
+
+19. Design a stack. We want to push, pop, and also, retrieve the minimum element in constant time.
+
+20. Given a set of coin denominators, find the minimum number of coins to give a certain amount of change.
+
+21. Given an array,
+	i) find the longest continuous increasing subsequence.
+	ii) find the longest increasing subsequence.
+
+22. Suppose we have N companies, and we want to eventually merge them into one big company. How many ways are there to merge?
+
+23. Write a function to find the middle node of a single link list.
+
+24. Given two binary trees, write a compare function to check if they are equal or not. Being equal means that they have the same value and same structure.
+
+25. Implement put/get methods of a fixed size cache with LRU replacement algorithm.
+
+26. You are given with three sorted arrays ( in ascending order), you are required to find a triplet ( one element from each array) such that distance is minimum.
+
+Distance is defined like this :
+
+If a[i], b[j] and c[k] are three elements then
+
+distance=max(abs(a[i]-b[j]),abs(a[i]-c[k]),abs(b[j]-c[k]))"
+
+Please give a solution in O(n) time complexity
+
+27. Classic - Egg Problem
+
+You are given 2 eggs.You have access to a 100-storey building.
+
+Eggs can be very hard or very fragile means it may break if dropped from the first floor or may not even break if dropped from 100 th floor.Both eggs are identical.You need to figure out the highest floor of a 100-storey building an egg can be dropped without breaking.
+
+Now the question is how many drops you need to make. You are allowed to break 2 eggs in the process.
