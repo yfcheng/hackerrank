@@ -22,7 +22,7 @@ A selection of difficult coding problems that can be solved in any programming l
 
 ## Linked Lists
 - Write code to remove duplicates from an unsorted linked list. 
-- Write an algorithm to find the kth to last element of a singly linked list. 
+- Write an algorithm to find the nth to last element of a singly linked list. [Solution](https://raw.githubusercontent.com/senthil1216/hackerrank/master/linked-list/n_node_from_last.py)
 - Implement an algorithm to delete a node from a single linked list, given only access to that node. 
 - Write code to partition a linked list around a value x, such that all nodes less than x come before all nodes greater than or equal to x.
 - Given two numbers represented as a linked list, calcuate and return their sum represented as a linked list.
