@@ -66,10 +66,10 @@ var possible = function possible(grid, r, c){
 		}
 	}
 
-	// check all possible in grid 
+	// check all possible in grid
 	var x = r <= 2 ? 0: (r <= 5 ? 3 : 6),
 		y = c <= 2 ? 0: (c <= 5 ? 3 : 6);
-	
+
 	for(var i = x; i < (x + 3); i++){
 		for(var j = y; j< (y + 3); j++){
 			val = grid[i][j];
@@ -99,7 +99,7 @@ var solve = function solve(grid){
 	}
 	console.log( point );
 	grid[minx][miny] = point[minx + ' ' + miny][0];
-	
+
 	for(var i = 0;i < grid.length;i++){
 		for(var j = 0;j < grid[0].length;j++){
 			if(grid[i][j] === 0){

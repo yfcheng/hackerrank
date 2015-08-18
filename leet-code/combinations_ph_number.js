@@ -22,4 +22,4 @@
      return out;
  };
 
-console.log( letterCombinations('23') );
+console.log( letterCombinations('120') );

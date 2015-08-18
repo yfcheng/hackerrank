@@ -29,7 +29,8 @@ def main():
 	print "Downloading song from " + page
 	response = urllib2.urlopen(page)
 	html = response.read()
-	urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+mp3', html)
+	urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+mp3', html) 
+	print "Downloading song from " + urls
 	for url in urls:
 		downloadfile(url)
 	print "Download completed"

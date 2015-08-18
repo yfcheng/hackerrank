@@ -13,6 +13,6 @@
  * @return {RandomListNode}
  */
 var copyRandomList = function(head) {
-    
-};
 
+
+};

@@ -19,4 +19,3 @@ var copyRandomList = function(head) {
 
     return copy;
 };
-
