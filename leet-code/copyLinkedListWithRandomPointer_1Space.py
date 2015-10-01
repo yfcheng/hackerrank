@@ -1,4 +1,6 @@
-/* http://leetcode.com/problems/copy-list-with-random-pointer/ */
+""" 
+
+http://leetcode.com/problems/copy-list-with-random-pointer/ */
 
 /**
  * Definition for singly-linked list with a random pointer.
@@ -6,7 +8,7 @@
  *     this.label = label;
  *     this.next = this.random = null;
  * }
- */
+ """
 
 /**
  * @param {RandomListNode} head
