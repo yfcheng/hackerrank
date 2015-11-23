@@ -5,14 +5,12 @@ There will be one index in this second array for each word in the original docum
 
 Input: this specification is the specification for a specification
 Output: words = ["this", "specification", "is", "the", "for", "a"]
-        sentence = [0, 1, 2, 3, 1, 4, 5, 1]    
-
+        sentence = [0, 1, 2, 3, 1, 4, 5, 1]
 
 PlayStudios Phone:
 1. Explain SOLID principles with details
 2. Is Ninject your favourite module for achieving dependency injection
 3. Explain the MVC architecture with respect to filters and routing
-
 
 Move Inc phone:
 1. What are models in MVC framework
@@ -20,7 +18,7 @@ Move Inc phone:
 3. What is advantage of using JQuery and Javascript
 4. What are jQuery selectors
 5. What is jQuery.data
-6. What is HoldReady in JQuery 
+6. What is HoldReady in JQuery
 7. How to manipulate cookies in JQuery
 8. Difference between == and === in JavaScript
 9. WHat is difference in sorting between a string array and integer array
@@ -60,7 +58,7 @@ McKesson phone:
 
 HearSaySocial phone:
 How do u improve the throughput of a web service
-Given a string having a pattern "11122333", or "1", return the strng containing the count of repeating characters and the digits i.e. "312233", "11" etc
+Given a string having a pattern "11122333", or "1", return the string containing the count of repeating characters and the digits i.e. "312233", "11" etc
 
 Netflix Phone:
 1. Explain the security of the YAP application I explained

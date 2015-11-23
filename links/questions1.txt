@@ -1,6 +1,6 @@
 Programming for the Reversi game (for some rules)
 You have a string lets say "ABC" now write a program that prints out all the combinations of this string (for example: ACB, BAC, BCA...)"
-Implement an algorithm to return a copy of a linked list in which each node has random pointers to other nodes within the list.   
+Implement an algorithm to return a copy of a linked list in which each node has random pointers to other nodes within the list.
 The database interviewer started asking me questions like "why do you normalize" and "what are the different types of normalization"?
 Tell me an algorithm to find the angle between hour hand and minute hand of an analog clock.
 Reverse every word in a sentence, which contains only space and chars.
@@ -10,11 +10,11 @@ Maximum area of a rectangle in a histogram
 intersection of two rectangles.
 design a datastructure with faster insert/delete/lookup and generate random
 string aa*d* => aa0d0,aa0d1,aa1d0,aa1d1
-array find the product of integers which are not in the current position        
+array find the product of integers which are not in the current position
 level order traversal of binary tree
 print the rightmost sibling given a node and binary tree
 design game of mastermind
-How do you quickly compute a knight's tour on a chessboard?  
+How do you quickly compute a knight's tour on a chessboard?
 Given a linked list, swap every pair of elements (so elements 1 and 2 swap, 3 and 4 swap, etc.)
 Implementing a dictionary of quick searching words
 check if a binary tree is a binary search tree
@@ -63,7 +63,7 @@ Example,
 
 1  2 5  8
 
- 
+
 
 Output:
 
@@ -75,7 +75,7 @@ Output:
 
 5-7-8
 
- 
+
 
 Given two nodes in a directed graph represented by singly linked nodes, provide an algorithm for finding the nearest common ancestor. In fact, provide as many different algorithms as you can, giving different trade-offs between time and space requirements (in big-O notation).
 A sorted array has been rotated. You need to find out the point of inflexion, i.e the position at which the smallest element of the array is present.(I did this in log n time) For example if the array is [6,7,8,9,1,2,3,4,5], the output should be 4
@@ -84,8 +84,10 @@ You are given a dictionary and two strings a and b. You need to convert the stri
 You are given an array of numbers. You need to print the length of the maximum continuous sequence that you encounter. For example if input is [3,8,10,1,9,6,5,7,2 ], the continuous sequences are{1,2,3} and {5,6,7,8,9,10} the latter is the longest one so the answer becomes 6. O(n) solution was asked for, assuming you have a hash map which supports O(1) insertion and fetching operations
 
 Write out a sorting algo for the binary tree
+
 Solve a sudoku game
-design a phone book for mobile applications
+
+Design a phone book for mobile applications
 Give a number k, output how many prime numbers between 2 and k (inclusive)
 Give two strings a and b, tell whether b is a sub sequence of a (not substring), using recursion first, then using loops, then tell which one is better.
 Describe what a cache is and when it should be used, describe how to implement a simple cache draw it up on the whiteboard, pseudo code it what are the policies for cache updates/invalidation? why? what happens when what you want to cache gets too big for a single box? draw the solution. how would you implement a multi-server caching solution?

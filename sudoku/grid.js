@@ -57,7 +57,6 @@ var possible = function possible(grid, r, c){
 		}
 	}
 
-
 	// check all possible values in col
 	for(var i = 0;i < grid[0].length;i++){
 		val = grid[r][i];
@@ -97,6 +96,7 @@ var solve = function solve(grid){
 			}
 		}
 	}
+	
 	console.log( point );
 	grid[minx][miny] = point[minx + ' ' + miny][0];
 
@@ -118,6 +118,3 @@ var solve = function solve(grid){
 };
 
 solve( grid );
-
-//console.log( solve(grid) );
-//console.log( point );
