@@ -1,5 +1,3 @@
-# Coding Challenges
-A selection of difficult coding problems that can be solved in any programming language. The problems are divided into multiple categories, and each category has its own set of questions.
 
 ## Arrays
 - Sort an array such that odd numbers are in front of even numbers and their relative order does not change.
@@ -22,7 +20,7 @@ A selection of difficult coding problems that can be solved in any programming l
 
 ## Linked Lists
 - Write code to remove duplicates from an unsorted linked list. 
-- Write an algorithm to find the nth to last element of a singly linked list. [Solution](https://raw.githubusercontent.com/senthil1216/hackerrank/master/linked-list/n_node_from_last.py)
+- Write an algorithm to find the nth to last element of a singly linked list.
 - Implement an algorithm to delete a node from a single linked list, given only access to that node. 
 - Write code to partition a linked list around a value x, such that all nodes less than x come before all nodes greater than or equal to x.
 - Given two numbers represented as a linked list, calcuate and return their sum represented as a linked list.
@@ -98,7 +96,6 @@ of nodes. Create an algorithm to decide if T2 is a subtree of T1.
 - Given preorder and inorder traversal of a tree, construct the binary tree.
 - Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.
 
----
 ## Grab Bag (figure out what to use and implement it!)
 - Given a series of words written using a scrambled alphabet, figure out what order the letters of the alphabet are in.
 - Print the shortest path from start to end of a maze.
@@ -119,7 +116,6 @@ of nodes. Create an algorithm to decide if T2 is a subtree of T1.
 - Write a function to determine whether or not an input integer is prime.
 - Write a function that takes an integer ( >= 1 ) and returns "true" if the integer is even and "false" if odd. You cannot use any conditional operators or switch statements. 
 
----
 ## Design/Thoughts
 - How would you design a distributed ID generation system?
 - How would you represent a graph with a million nodes?
