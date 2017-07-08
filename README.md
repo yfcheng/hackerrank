@@ -40,6 +40,7 @@
 - Merge two linked lists of numbers, including in the final list only those numbers that occur in both lists. So if the lists are [1,3,4,7,12] and [1,5,7,9], the result is [1,7]
 -Return the node which 2 link list merge if they do not merge return null
 -Given two linked list join them together
+-Given a method which takes a linked list return a array which resembles the same elements within the linked list.
 
 ## Sets
 - Write a function that prints out all subsetes of a given set of numbers.
