@@ -37,6 +37,9 @@
 - Given a linked list with unknown length, randomly select one node with equal probability for every node in the list.
 - Two singly linked-lists intersect at a node and merge into a single linked-list. The size of each is unknown and the number of nodes prior to the intersection node can vary in each list. Write a function to find the intersecting node. 
 - Given only a pointer to the middle node of a singly linked list, write a function to delete that node.
+- Merge two linked lists of numbers, including in the final list only those numbers that occur in both lists. So if the lists are [1,3,4,7,12] and [1,5,7,9], the result is [1,7]
+-Return the node which 2 link list merge if they do not merge return null
+-Given two linked list join them together
 
 ## Sets
 - Write a function that prints out all subsetes of a given set of numbers.
